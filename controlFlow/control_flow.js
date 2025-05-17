@@ -1,4 +1,4 @@
-let userRole = "admin";
+let userRole = "manager";
 let accessLevel;
 let isLoggedIn = true;
 let userMessage;
